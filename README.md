@@ -6,7 +6,7 @@ partes de Chile para reciclarlos y darles un nuevo uso fabricando agendas para m
 
 [========]
 
-###*Requerimientos*
+### *Requerimientos*
 - En una nueva base de datos llamada unidad2-oracle, debemos cargar el archivo [unidad-oracle2](https://gist.githubusercontent.com/elrerag/18ba64101bb39bf9c37777b07c70b295/raw/01b820296fac5f64db7d4907aec365ba9a75a007/unidad2_oracle.sql "unidad-oracle2")
 
 - El cliente usuario01 ha realizado la siguiente compra:

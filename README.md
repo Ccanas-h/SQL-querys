@@ -1,5 +1,5 @@
 
->  Una tienda consciente con el cuidado del medioambiente recolecta Jeans de distintas
+>  Una tienda consciente con el cuidado del medioambiente recolecta Jeans de distintas 
 partes de Chile para reciclarlos y darles un nuevo uso fabricando agendas para mujeres de escasos recursos. Sin embargo, existen otras prendas que llegan casi nuevas y deciden venderlas para solventar el negocio. Es por esto que le solicitan a usted ayuda para modernizar la tienda y llevar un control de aquellas prendas que puedan venderse. 
 
 >En base a lo anterior, debemos desarrollar una aplicación que contenga un menú de acceso y que deberá contar con los siguientes requerimientos:
